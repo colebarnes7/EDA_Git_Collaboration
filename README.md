@@ -22,7 +22,7 @@ https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling
 ## Installation
 Code was tested using Python 3.8
 
-# Visualization
+## Visualization
+![Test](/data_retrieval/plots/income_loans_bar.png)
 
-
-# Analysis
+## Analysis
