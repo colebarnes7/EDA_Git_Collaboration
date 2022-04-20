@@ -39,6 +39,7 @@ pip install scipy
 
 ## Visualization
 Income vs Personal Loan Plots
+
 ![Bar plot of mean incomes](/data_retrieval/plots/income_loans_bar.png)
 ![Bin1 Pie](/data_retrieval/plots/income_bin1_loans_pie.png)
 ![Bin2 Pie](/data_retrieval/plots/income_bin2_loans_pie.png)
