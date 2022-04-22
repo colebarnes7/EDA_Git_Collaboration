@@ -43,6 +43,12 @@ conda install numpy
 pip install scipy
 ```
 
+## Featured Notebooks
+| Document Title | Purpose |
+| ------------- | ------------- |
+| cleaning_data.ipynb | Cleaned raw data and outputted to CSV |
+| cole_retrieval.ipynb | Analyzed relationships between income and personal loans  |
+
 ## Visualization and Analysis
 Income vs Personal Loan Plots and Analysis
 
