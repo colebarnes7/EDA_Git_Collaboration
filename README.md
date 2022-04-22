@@ -5,7 +5,7 @@ This project is taking a look at Bank Loan Modeling and what criteria in a clien
 * Education Level
 * Family Size
 * Mortgage Status
-* Living Conditions (rural vs urban)
+* Zip Codes
 
 ## Contributors
 * Cole Barnes
@@ -48,13 +48,15 @@ pip install scipy
 | ------------- | ------------- |
 | cleaning_data.ipynb | Cleaned raw data and outputted to CSV |
 | cole_retrieval.ipynb | Analyzed relationships between income and personal loans  |
+| debolina_notebook.ipynb | Working on data distribution, correlation and impact of education and family size on Personal loan |
+| City_Retrieval.ipynb | Working to gather and assign cities to different zip codes using Google Geocode api |
+| Zip_Code_Analysis.ipynb | Identifying relationships between zip code, personal loan, and other attributes of the dataset |
+| Mortgage_Analysis.ipynb | Working to analyze how likely a loan is going to be accepted based off of previous debt/value of mortgage |
 
 ## Visualization and Analysis
-Income vs Personal Loan Plots and Analysis
-
+Income vs Personal Loan Plots and Analysis<br/>
 ![Bar plot of mean incomes](/data_retrieval/plots/income_loans_bar.png)
-* Clients with a personal loan have a much higher annual income on average ($144,745.83) than clients who do not have a personal loan ($66,237,39)
-
+* Clients with a personal loan have a much higher annual income on average ($144,745.83) than clients who do not have a personal loan ($66,237,39)<br/>
 ![Bin1 Pie](/data_retrieval/plots/income_bin1_loans_pie.png)
 ![Bin2 Pie](/data_retrieval/plots/income_bin2_loans_pie.png)
 ![Bin3 Pie](/data_retrieval/plots/income_bin3_loans_pie.png)
@@ -63,5 +65,5 @@ Income vs Personal Loan Plots and Analysis
 * Only 0.3% of clients with an annual income between $25,000-75,000 had a personal loan
 * 15.9% of clients with an annual income between $75,000-$150,000 had a personal loan
 * 49.3% of clients with an annual income over $150,000 had a personal loan
-* As the annual income of a client increases, it becomes exceedingly more likely for them to want to take out a personal loan with the bank. This is likely due to these clients having more capital in order to start paying off the loans they take out.  
+* As the annual income of a client increases, it becomes exceedingly more likely for them to want to take out a personal loan with the bank. This is likely due to these clients having more capital in order to start paying off the loans they take out.<br/>  
 
