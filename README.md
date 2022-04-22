@@ -5,7 +5,7 @@ This project is taking a look at Bank Loan Modeling and what criteria in a clien
 * Education Level
 * Family Size
 * Mortgage Status
-* Living Conditions (rural vs urban)
+* Zip Codes
 
 ## Contributors
 * Cole Barnes
@@ -50,7 +50,8 @@ pip install scipy
 | cole_retrieval.ipynb | Analyzed relationships between income and personal loans  |
 | debolina_notebook.ipynb | Working on data distribution, correlation and impact of education and family size on Personal loan |
 | City_Retrieval.ipynb | Working to gather and assign cities to different zip codes using Google Geocode api |
-| Zip_Code_Analysis.ipybn | Identifying relationships between zip code, personal loan, and other attributes of the dataset |
+| Zip_Code_Analysis.ipynb | Identifying relationships between zip code, personal loan, and other attributes of the dataset |
+| Mortgage_Analysis.ipynb | Working to analyze how likely a loan is going to be accepted based off of previous debt/value of mortgage |
 
 ## Visualization and Analysis
 Income vs Personal Loan Plots and Analysis<br/>
