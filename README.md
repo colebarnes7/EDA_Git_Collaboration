@@ -66,3 +66,16 @@ Income vs Personal Loan Plots and Analysis<br/>
 * 15.9% of clients with an annual income between $75,000-$150,000 had a personal loan
 * 49.3% of clients with an annual income over $150,000 had a personal loan
 * As the annual income of a client increases, it becomes exceedingly more likely for them to want to take out a personal loan with the bank. This is likely due to these clients having more capital in order to start paying off the loans they take out.<br/>  
+Age, Education Level and Family Size vs Personal Loan Plots and Analysis<br/>
+* Age of the customers in the dataset is normally distributed generally falling between 30 and 60 years of age. The mean and median age are almost equal
+* Work experience is normally distributed, while income is positively skewed.
+![Income Histogram](/data/cleaned_data/income_histogram.png)
+![Age/Experience Scatter](/data/cleaned_data/scatter_age_experience_boxplot.png)
+![Loan/Income Boxplot](/data/cleaned_data/loan_income_boxplot.png)
+* Since income is positively skewed, the mean is higher than the median as a large portion of the dataset resides between $45k-55k income
+![Education Bar](/data/cleaned_data/distribution_PL_among_Education.png)
+![Education Pie](/data/cleaned_data/Proportion_edu_levels_Personal_Loan.png)
+![Family Size](/data/cleaned_data/Proportion_family_size_among_PL.png)
+* Of the customers who have a personal loan, 42.7% and 37.9% had an advanced and graduate level of education respectively.
+* Customers with a higher level of education should be targeted with personal loan offers.
+* Of customers with a personal loan, 27.9% and 27.7% of them had a family size of 4 and 3 respectively.<br/>
