@@ -66,5 +66,3 @@ Income vs Personal Loan Plots and Analysis<br/>
 * 15.9% of clients with an annual income between $75,000-$150,000 had a personal loan
 * 49.3% of clients with an annual income over $150,000 had a personal loan
 * As the annual income of a client increases, it becomes exceedingly more likely for them to want to take out a personal loan with the bank. This is likely due to these clients having more capital in order to start paying off the loans they take out.<br/>  
-
-![Histograms](/data/cleaned_data/income_age_boxplot.png)
