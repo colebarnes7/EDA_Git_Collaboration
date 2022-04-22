@@ -43,20 +43,18 @@ conda install numpy
 pip install scipy
 ```
 
-## Visualization
-Income vs Personal Loan Plots
+## Visualization and Analysis
+Income vs Personal Loan Plots and Analysis
 
 ![Bar plot of mean incomes](/data_retrieval/plots/income_loans_bar.png)
+* Clients with a personal loan have a much higher annual income on average ($144,745.83) than clients who do not have a personal loan ($66,237,39)
 ![Bin1 Pie](/data_retrieval/plots/income_bin1_loans_pie.png)
 ![Bin2 Pie](/data_retrieval/plots/income_bin2_loans_pie.png)
 ![Bin3 Pie](/data_retrieval/plots/income_bin3_loans_pie.png)
 ![Bin4 Pie](/data_retrieval/plots/income_bin4_loans_pie.png)
-
-## Analysis
-Income and Personal Loan Relationships
-* Clients with a personal loan have a much higher annual income on average ($144,745.83) than clients who do not have a personal loan ($66,237,39)
 * No client with an annual income less than $25,000 had a personal loan taken out
 * Only 0.3% of clients with an annual income between $25,000-75,000 had a personal loan
 * 15.9% of clients with an annual income between $75,000-$150,000 had a personal loan
 * 49.3% of clients with an annual income over $150,000 had a personal loan
 * As the annual income of a client increases, it becomes exceedingly more likely for them to want to take out a personal loan with the bank. This is likely due to these clients having more capital in order to start paying off the loans they take out.  
+
