@@ -49,6 +49,8 @@ pip install scipy
 | cleaning_data.ipynb | Cleaned raw data and outputted to CSV |
 | cole_retrieval.ipynb | Analyzed relationships between income and personal loans  |
 | debolina_notebook.ipynb | Working on data distribution, correlation and impact of education and family size on Personal loan |
+| City_Retrieval.ipynb | Working to gather and assign cities to different zip codes using Google Geocode api |
+| Zip_Code_Analysis.ipybn | Identifying relationships between zip code, personal loan, and other attributes of the dataset |
 
 ## Visualization and Analysis
 Income vs Personal Loan Plots and Analysis<br/>
