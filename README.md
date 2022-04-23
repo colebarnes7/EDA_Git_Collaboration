@@ -80,3 +80,8 @@ Age, Education Level and Family Size vs Personal Loan Plots and Analysis<br/>
 * Of the customers who have a personal loan, 42.7% and 37.9% had an advanced and graduate level of education respectively.
 * Customers with a higher level of education should be targeted with personal loan offers.
 * Of customers with a personal loan, 27.9% and 27.7% of them had a family size of 4 and 3 respectively.<br/>
+* Zip Code/City role is not a huge predictor of Personal Loan acceptance. Population plays a larger role in predicting amount of accepted loans
+
+![Population](https://user-images.githubusercontent.com/72879711/164817276-f5719717-d0df-4410-a10c-706aab684c9c.png)
+![Least Cities](https://user-images.githubusercontent.com/72879711/164817277-7d866a7c-0a90-416a-9536-a926e390c92d.png)
+![cities least](https://user-images.githubusercontent.com/72879711/164817278-caa346e4-0504-400b-a666-682ba2937931.png)
