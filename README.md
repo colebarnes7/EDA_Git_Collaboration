@@ -89,6 +89,7 @@ Age, Education Level and Family Size vs Personal Loan Plots and Analysis<br/>
 * When you have a lower value mortgage/lower debt (<100k), the higher probability you will have of having your loan application to be approved
 * Many people with a lower value mortgage/lower debt indicating that people are aware of lower debt has a higher probability of an approved loan
 * Mean mortgage of approved loans is $100,845.83
+* There certainly other factors to consider for approving a loan because there are still some with applications with high debt that were approved
 ![Approved Loans](/Graphs/yes_loan_pie.png)
 ![Declined Loans](/Graphs/no_loan_pie.png)
 ![All Loans](/Graphs/all_apps_pie.png)
